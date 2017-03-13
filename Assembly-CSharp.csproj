@@ -39,10 +39,10 @@
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="UnityEngine">
-      <HintPath>/home/jonas/opt/unity-editor-5.5.0xf3Linux/Editor/Data/Managed/UnityEngine.dll</HintPath>
+      <HintPath>/home/jonas/unity-editor-5.5.0xf3Linux/Editor/Data/Managed/UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor">
-      <HintPath>/home/jonas/opt/unity-editor-5.5.0xf3Linux/Editor/Data/Managed/UnityEditor.dll</HintPath>
+      <HintPath>/home/jonas/unity-editor-5.5.0xf3Linux/Editor/Data/Managed/UnityEditor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -51,23 +51,24 @@
      <Compile Include="Assets\Scripts\PersistentManager.cs" />
      <Compile Include="Assets\Scripts\PlayerMovement.cs" />
      <Compile Include="Assets\Scripts\RandomSprite.cs" />
+     <Compile Include="Assets\Scripts\Timer.cs" />
  <Reference Include="UnityEngine.UI">
- <HintPath>/home/jonas/opt/unity-editor-5.5.0xf3Linux/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ <HintPath>/home/jonas/unity-editor-5.5.0xf3Linux/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Networking">
- <HintPath>/home/jonas/opt/unity-editor-5.5.0xf3Linux/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ <HintPath>/home/jonas/unity-editor-5.5.0xf3Linux/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.PlaymodeTestsRunner">
- <HintPath>/home/jonas/opt/unity-editor-5.5.0xf3Linux/Editor/Data/UnityExtensions/Unity/PlaymodeTestsRunner/UnityEngine.PlaymodeTestsRunner.dll</HintPath>
+ <HintPath>/home/jonas/unity-editor-5.5.0xf3Linux/Editor/Data/UnityExtensions/Unity/PlaymodeTestsRunner/UnityEngine.PlaymodeTestsRunner.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Analytics">
- <HintPath>/home/jonas/opt/unity-editor-5.5.0xf3Linux/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ <HintPath>/home/jonas/unity-editor-5.5.0xf3Linux/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.HoloLens">
- <HintPath>/home/jonas/opt/unity-editor-5.5.0xf3Linux/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
+ <HintPath>/home/jonas/unity-editor-5.5.0xf3Linux/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.VR">
- <HintPath>/home/jonas/opt/unity-editor-5.5.0xf3Linux/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
+ <HintPath>/home/jonas/unity-editor-5.5.0xf3Linux/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
