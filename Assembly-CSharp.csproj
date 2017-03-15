@@ -48,6 +48,8 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\CameraFollow2D.cs" />
      <Compile Include="Assets\Scripts\CollectGem.cs" />
+     <Compile Include="Assets\Scripts\EndGameAtTouch.cs" />
+     <Compile Include="Assets\Scripts\LevelSelect.cs" />
      <Compile Include="Assets\Scripts\PersistentManager.cs" />
      <Compile Include="Assets\Scripts\PlayerMovement.cs" />
      <Compile Include="Assets\Scripts\RandomSprite.cs" />
